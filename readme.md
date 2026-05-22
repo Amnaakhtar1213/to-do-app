@@ -1,10 +1,10 @@
-##  TODO-APP
+##  TODO-APP 📑
 
 A Simple, clean and interactive todo list application built with *HTML*, *CSS* and *JAVASCRIPT*.It help you to add, manage and filter tasks while keeping the track of what's left.
 
 --------------------------------
 
-##   FEATURES
+##   FEATURES 🚀
 
 - Add tasks quickly by clicking add button or Enter button.
 - Mark tasks as completed with checkbox.
@@ -23,7 +23,7 @@ A Simple, clean and interactive todo list application built with *HTML*, *CSS* a
 
 -------------------------------
 
-##  TECHNOLOGY
+##  TECHNOLOGY ⚔️
 
 1. **HTML**
 2. **CSS**
@@ -32,21 +32,24 @@ A Simple, clean and interactive todo list application built with *HTML*, *CSS* a
 
 -------------------------------------
 
-##  HOW TO RUN
+##  HOW TO RUN ✨
 -------------------------
+
 ##  SCREENSHOT 🖼️ 
 
+Here's take a quick look:
 [Click here for screenshot](SS.png)
 
 ---------------------------------
 
 ## LIVE DEMO 🌐
 
-[Click here for live demo]()
+Here's test yourself through live-demo:
+[Click here for live demo](https://amnaakhtar1213.github.io/to-do-app/)
 
 -------------------------------------
 
-Clone the Repository
+## Clone the Repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/to-do-app.git
 
