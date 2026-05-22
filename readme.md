@@ -38,14 +38,14 @@ A Simple, clean and interactive todo list application built with *HTML*, *CSS* a
 ##  SCREENSHOT 🖼️ 
 
 Here's take a quick look:
-[Click here for screenshot](SS.png)
+- [Click here for screenshot](SS.png)
 
 ---------------------------------
 
 ## LIVE DEMO 🌐
 
 Here's test yourself through live-demo:
-[Click here for live demo](https://amnaakhtar1213.github.io/to-do-app/)
+- [Click here for live demo](https://amnaakhtar1213.github.io/to-do-app/)
 
 -------------------------------------
 
